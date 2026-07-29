@@ -13,3 +13,7 @@ Bem-vinda! Este é um projeto de **fixação** dos primeiros passos de **GIT | G
 
 > 💡 Dica: um bom README é a porta de entrada de qualquer projeto. Ele explica **o que é**
 > o projeto e **como usá-lo**.
+
+## Sobre a Licença 
+
+Este exercício **não** está usando licença 
